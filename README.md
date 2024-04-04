@@ -20,11 +20,6 @@ Este archivo Java proporciona un ejemplo simple de cómo enviar correos electró
 
 3. **Destinatario del correo electrónico**: Reemplaza `"destinatario@example.com"` con la dirección de correo electrónico del destinatario al que deseas enviar el correo electrónico.
 
-## Uso
-
-1. **Compila el archivo Java**: Utiliza el comando `javac EmailSender.java` para compilar el archivo Java y generar el archivo `.class`.
-
-2. **Ejecuta el programa**: Utiliza el comando `java EmailSender` para ejecutar el programa y enviar el correo electrónico.
 
 ## Contribución
 
